@@ -21,8 +21,11 @@ sudo /opt/lampp/manager-linux-x64.run
 
 Creamos un lanzador (funciona??)
 
-gksu /opt/lampp/manager-linux-x64.run  (el nombre del ejecutable puede cambiar dependiendo de la versión instalada)
+gksu /opt/lampp/manager-linux-x64.run
+
+(el nombre del ejecutable puede cambiar dependiendo de la versión instalada)
 
 Iniciar servicios
 sudo /opt/lampp/lampp start
+
 Fuente: https://www.enmimaquinafunciona.com/pregunta/125904/fallo-al-iniciar-proftpd
